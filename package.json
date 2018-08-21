@@ -1,0 +1,24 @@
+{
+  "name": "wct-config-vaadin",
+  "version": "0.1.0",
+  "description": "Web Component Tester shareable config for Vaadin components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaadin/wct-config-vaadin.git"
+  },
+  "keywords": [
+    "web-component-tester",
+    "wct",
+    "config",
+    "vaadin"
+  ],
+  "author": "Vaadin Ltd",
+  "license": "Apache-2.0",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "web-component-tester": "^6.7.0"
+  }
+}
